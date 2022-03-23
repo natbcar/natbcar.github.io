@@ -4,11 +4,14 @@
 
 ### Natural Language Processing
 
-[Multimodal Neural Machine Translation](/sample_page)
+[Multimodal Neural Machine Translation](/sample_page) \
+[![](https://img.shields.io/badge/github-View_on_github-blue?logo=github)](link-to-our-project)
 <img src="images/MMT_visual.png?raw=true"/>
 
 ---
-[Text Summarization](/pdf/sample_presentation.pdf)
+[Text Summarization](/pdf/sample_presentation.pdf) \
+[![](https://img.shields.io/badge/github-View_on_github-blue?logo=github)](link-to-our-project)
+[![](https://img.shields.io/badge/streamlit-Open_in_streamlit-blue?logo=streamlit)](link-to-our-project)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
