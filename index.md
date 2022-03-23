@@ -2,17 +2,17 @@
 
 ---
 
-### Multimodal Neural Machine Translation
+### Natural Language Processing
 
-[Project 1 Title](/sample_page)
+[Multimodal Neural Machine Translation](/sample_page)
+<img src="images/MMT_visual.png?raw=true"/>
+
+---
+[Text Summarization](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
+[Word Embeddings](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
