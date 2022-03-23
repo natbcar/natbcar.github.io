@@ -2,6 +2,8 @@
 
 ---
 
+[Resume](/pdf/NCarlson-Resume-Fall2021.pdf)
+
 ### Category Name 1 
 
 [Project 1 Title](/sample_page)
