@@ -2,9 +2,7 @@
 
 ---
 
-[Resume](/pdf/NCarlson-Resume-Fall2021.pdf)
-
-### Category Name 1 
+### Multimodal Neural Machine Translation
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
