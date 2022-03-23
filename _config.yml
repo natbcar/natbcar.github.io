@@ -1,16 +1,11 @@
 title: Nate Carlson # your name (or website title) here
-#logo: "/images/profile_image.png?raw=true" # your photo (or logo) here
 logo: "/images/profile_image.png" # your photo (or logo) here
-resume: "/pdf/NCarlson-Resume-Fall2021.pdf"
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Applied Mathematics | Data Science | Machine Learning 
   <br><br>
   I am a senior in the <a href="https://acme.byu.edu/">Applied and Computational Mathematics (ACME)</a> program at BYU.
   <br><br>
   This summer I will be joining CVS Health as a Data Science Intern on the Health Analytics & Behavior Change Team.
-  <br><br>
-  Check out my ![resume](/pdf/NCarlson-Resume-Fall2021.pdf)
-  <pdf src=/pdf/NCarlson-Resume-Fall2021.pdf">
   <br><br>
   <a href="https://www.linkedin.com/in/natbcar/">View My LinkedIn Profile</a> 
   
