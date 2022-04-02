@@ -22,7 +22,7 @@
 
 ### Particle Filtering
 
-For a final class project my team got access to time series spectrographic data from a local health care start up. Our goal was to reduce noise in the readings to extract a smoothed underlying signal, and replace corrupted sections of the time series data so that it can be used in other predictive algorithms. To do this we applied two state space filtering methods: the Kalman filter and the particle filter. Take a look at our write up [here!](/pdf/filtering.pdf) My main contribution was the particle filter to which I have attatched a github link to the implementation I made. 
+For a final class project my team got access to time series spectrographic data from a local health care start up. Our goal was to reduce noise in the readings to extract a smoothed underlying signal, and replace corrupted sections of the time series data so that it can be used in other predictive algorithms. To do this we applied two state space filtering methods: the Kalman filter and the particle filter. Take a look at our write up [here!](/pdf/Vol_3_Filtering_Project.pdf) My main contribution was the particle filter to which I have attatched a github link to the implementation I made. 
 
 
 ---
