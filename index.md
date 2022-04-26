@@ -5,7 +5,7 @@
 ### Natural Language Processing
 
 [Multimodal Neural Machine Translation](/sample_page) \
-[![](https://img.shields.io/badge/github-View_on_github-blue?logo=github)](link-to-our-project)
+[![](https://img.shields.io/badge/github-View_on_github-blue?logo=github)](https://github.com/natbcar/Multimodal-MT)
 <img src="images/MMT_visual.png?raw=true"/>
 
 ---
@@ -30,10 +30,3 @@ For a final class project my team got access to time series spectrographic data 
 
 
 ---
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
