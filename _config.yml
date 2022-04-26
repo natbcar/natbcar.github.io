@@ -6,8 +6,12 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.linkedin.com/in/natbcar/">LinkedIn</a> |
   <a href="https://github.com/chriskhanhtran">GitHub</a>
   </p>
-  I am a senior in the <a href="https://acme.byu.edu/">Applied and Computational Mathematics (ACME)</a> program at BYU.
+  I am an undergraduate student studying <a href="https://acme.byu.edu/">Applied and Computational Mathematics (ACME)</a>. 
+  I have experience in Deep Learning, NLP, and Statistics. I will graduate in April of 2023 after which I plan to pursue graduate
+  school in Computer Science.
   <br><br>
+  I am currently working as a NLP research assistant in <a href="https://dragn.ai/">BYU Dragn Labs</a>. 
   This summer I will be joining CVS Health as a Data Science Intern on the Health Analytics & Behavior Change Team.
+  I am currently seeking internship oppertunities for Fall 2022. 
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
