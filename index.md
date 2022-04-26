@@ -11,6 +11,8 @@ I built a multimodal transformer to translate from English to Chinese while inco
 </p>
 
 ---
+
+### Text Summarization
 [Text Summarization](/pdf/sample_presentation.pdf) \
 [![](https://img.shields.io/badge/github-View_on_github-blue?logo=github)](link-to-our-project)
 [![](https://img.shields.io/badge/streamlit-Open_in_streamlit-blue?logo=streamlit)](link-to-our-project)
