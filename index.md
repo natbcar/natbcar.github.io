@@ -17,7 +17,7 @@ I built a multimodal transformer to translate from English to Chinese while inco
 [![](https://img.shields.io/badge/github-View_on_github-blue?logo=github)](https://github.com/natbcar/TextSummarization)
 [![](https://img.shields.io/badge/streamlit-Open_in_streamlit-blue?logo=streamlit)](link-to-our-project) 
 
-Static word embeddings like word2vec have been used for many extractive text summarization approaches. Algorithms like word2vec typically learn 2 sets of embeddings termed "target" and "context" vectors. It is common practice to discard the "context" vectors and use the "target" vectors for downstream tasks. I identified key structural differences between "target" and "context" spaces and explored whether these differences would impact performance on several extractive text summarization tasks. Learn more [here!](pdf/TextSummarization.pdf) 
+Static word embeddings like word2vec have been used for many extractive text summarization approaches. Algorithms like word2vec typically learn 2 sets of embeddings termed "target" and "context" vectors. It is common practice to discard the "context" vectors and use the "target" vectors for downstream tasks. I identified key structural differences between "target" and "context" space and explored whether these differences would impact performance on several extractive text summarization tasks. Learn more [here!](pdf/TextSummarization.pdf) 
 <p align="center">
   <img src="images/norms_dist.png" width="650" height="300">
 </p>
