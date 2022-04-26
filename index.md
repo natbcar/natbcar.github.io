@@ -2,10 +2,10 @@
 
 ---
 
-### Natural Language Processing
+### Multimodal Neural Machine Translation
 
-[Multimodal Neural Machine Translation](/sample_page) \
 [![](https://img.shields.io/badge/github-View_on_github-blue?logo=github)](https://github.com/natbcar/Multimodal-MT)
+I built a multimodal transformer to translate from English to Chinese while incorporating additional context from images. Visual context is typically most useful in translation when there is missing information in the source text. I generated synthetic noise by randomly masking content words in the source text and compared my multimodal model with a text only baseline. The multimodal model achieved around 2 point improvement in BLEU score over the baseline. Take a look at my writeup or presentation if you want to learn more about what I did.
 <img src="images/MMT_visual.png?raw=true"/>
 
 ---
