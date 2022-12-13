@@ -9,7 +9,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   I am an undergraduate student studying <a href="https://acme.byu.edu/">Applied and Computational Mathematics (ACME)</a>. 
   I have experience in Deep Learning, NLP, and Statistics. 
   <br><br>
-  I am currently working as a NLP research assistant in <a href="https://dragn.ai/">BYU Dragn Labs</a>. 
+  I am currently working as a NLP research assistant in <a href="https://dragn.ai/">BYU DRAGN Lab</a>. 
   Last summer I worked at CVS Health as a Data Science Intern.
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
