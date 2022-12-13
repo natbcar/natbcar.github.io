@@ -2,6 +2,15 @@
 
 ---
 
+### Task-dependent Optimal Weight Combinations for Static Embeddings
+
+My work in the [DRAGN Lab](https://dragn.ai/) was recently published in the Northern European Journal of Language Technology (NELJT). Checkout our paper [here!](https://nejlt.ep.liu.se/article/view/4438)
+
+<p align="center">
+  <img src="images/Screen Shot 2022-12-13 at 1.59.22 PM.png?raw=true" width="400" height="250">
+</p>
+
+
 ### Multimodal Neural Machine Translation
 
 [![](https://img.shields.io/badge/github-View_on_github-blue?logo=github)](https://github.com/natbcar/Multimodal-MT) \
